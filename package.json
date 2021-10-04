@@ -1,0 +1,6 @@
+{
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
